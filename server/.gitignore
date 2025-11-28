@@ -25,3 +25,5 @@ dist-ssr
 .env
 .env.*.local
 *.pem
+package-lock.json
+yarn.lock
